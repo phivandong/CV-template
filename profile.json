@@ -1,0 +1,10 @@
+{
+    "name": "Phí Văn Đông",
+    "age": 20,
+    "job": "Student",
+    "college": "UET-VNU",
+    "hobbies": [
+        "Football",
+        "Games"
+    ]
+}
